@@ -26,7 +26,7 @@ All visuals are built using raw OpenGL calls and simulated using real-time frame
 ## ⚰️ Files ⚰️
 
 - `ainz.cpp` – full implementation of the OpenGL animation
-- `ainz_preview.gif` – preview animation of Ainz in action (optional)
+- `ainz.mp4` – video animation of Ainz 
 - `README.md` – this documentation
 
 ## 🩸 How to Run 🩸
